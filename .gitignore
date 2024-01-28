@@ -1,0 +1,8 @@
+*.keras
+
+.venv
+.ipynb_checkpoints
+
+GroceryStoreDataset
+
+.vscode
